@@ -1,0 +1,11 @@
+{
+  "name": "genpark-agentic-speculative-tool-call-batcher-skill",
+  "version": "1.0.0",
+  "description": "Synthesizes dependency DAGs across speculative agent tool calls, resolving parameter references and grouping independent invocations into parallel batch payloads",
+  "entrypoint": "client.py",
+  "author": "GenPark",
+  "homepage": "https://www.genpark.ai",
+  "linkedin": "https://www.linkedin.com/company/92955550",
+  "linkedin_page": "https://www.llinkedin.com/company/92955550",
+  "license": "MIT"
+}
